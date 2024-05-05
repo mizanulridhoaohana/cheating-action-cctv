@@ -1,4 +1,3 @@
-
 Dataset Detail
 ==============
 
@@ -20,9 +19,7 @@ The following augmentation was applied to create 3 versions of each source image
 
 ## Paper Reference
 
-
-
-1. Pendeteksian Kecurangan Ujian Melalui CCTV Menggunakan Algoritma YOLOv5 - STAINS Proceeding
+1. Cheating Detection Through CCTV using YOLOv7 - 2nd MIMSE (2023)
+   (Production Process on Proceeding)
+2. Pendeteksian Kecurangan Ujian Melalui CCTV Menggunakan Algoritma YOLOv5 - STAINS Proceeding (2024)
    ([https://doi.org/10.29407/stains.v3i1.4360](https://doi.org/10.29407/stains.v3i1.4360))
-
-3. Cheating Detection Through CCTV using YOLOv7 - 2nd MIMSE
