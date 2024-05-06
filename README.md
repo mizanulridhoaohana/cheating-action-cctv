@@ -19,6 +19,7 @@ The following augmentation was applied to create 3 versions of each source image
 
 ## Paper Reference
 
+Please cite the following paper:
 1. Cheating Detection Through CCTV using YOLOv7 - 2nd MIMSE (2023)
    (Production Process on Proceeding)
 2. Pendeteksian Kecurangan Ujian Melalui CCTV Menggunakan Algoritma YOLOv5 - STAINS Proceeding (2024)
